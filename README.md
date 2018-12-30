@@ -14,9 +14,9 @@ ensuite tu peut ecrire dedans `(voir apres)` enfin pour quiter ton scripte tu a 
 	* :wq sauvegarder et quitter
 	* :q! quitter sans prendre en compte les modifications
 
-* **Code: ** doit etre mit entre ` ```sh et \`\`\` `
+* **Code:** doit etre mit entre ` ```sh et ``` ` 
 
-* **emxemple: ** 
+* **emxemple:** 
 ```sh
 	sh est seulement une extension pour dire shell mais tu peut aussi utiliser jsx ou autre faut regarder
 
