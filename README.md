@@ -22,4 +22,8 @@ ensuite tu peut ecrire dedans `(voir apres)` enfin pour quiter ton scripte tu a 
 
 ```
 
+## Memo Alex :
+
+* git push origin master : commande pour mettre le commit sur git.
+
 
